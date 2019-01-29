@@ -335,13 +335,13 @@ def menu():
            {\rmX\rh}v{\rmX\rh}|\rcPRX\rh|==========.
              [']  /'|'\           \\
                  /  \  \           '
-                 \_  \_ \_    \rk*\rhDragonFly ZomBie
+                 \_  \_ \_    \rk*\rhDragonFly Zombie
 \rk###########################################################
-#             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                    #
-# \rhBY\rp                                         PIRMANSX        \rk#
-# \rhGitHub\rp                  https://github.com/pirmansx        \rk#
-# \rhUploaded & translated by         Ahlyab Zuse               \rk#
-# \rhGitHub\rp                  https://github.com/Ahlyab          \rk#
+#             \rb*MULTY BRUTEFORCE FACEBOOK*                  \rk#
+# \rhBY\rp           King Of Hackers David                     \rk#
+# \rhGitHub\rp                  https://github.com/David        \rk#
+# \rhUploaded & translated by DAVID                         \rk#
+# \rhGitHub\rp                https://github.com/David          \rk#
 #       \rmDo Not Use This Tool For IllegaL Purpose             \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rh Take ID of group\n\rc2 \rhTake ID from friend list \n\rc3 \rmExit\n\rk%s'''%('#'*20,'#'*20))
