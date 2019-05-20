@@ -337,12 +337,12 @@ def menu():
                  /  \  \           '
                  \_  \_ \_    \rk*\rhDragonFly ZomBie
 \rk###########################################################
-#             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                    #
-# \rhBY\rp                                         PIRMANSX        \rk#
-# \rhGitHub\rp                  https://github.com/pirmansx        \rk#
-# \rhUploaded & translated by         Ahlyab Zuse               \rk#
-# \rhGitHub\rp                  https://github.com/Ahlyab          \rk#
-#       \rmDo Not Use This Tool For IllegaL Purpose             \rk#
+#             \rb*HANIF MARRI *\rk                            #
+# \rhBY\rp           King of Hackers David                  \rk#
+# \rhGitHub\rp                  https://github.com/HanifMarri  k#
+# \rhUploaded & translated by         HANIF MARRI            \rk#
+# \rhGitHub\rp                  https://github.com/HanifMarri k#
+#       \rmDo Not Use This Tool For IllegaL Purpose        \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rh Take ID of group\n\rc2 \rhTake ID from friend list \n\rc3 \rmExit\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]Choose',[1,2,3])
